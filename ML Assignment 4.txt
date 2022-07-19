@@ -1,0 +1,38 @@
+1) Step 1: Collect Data. 
+Step 2: Prepare the data. 
+Step 3: Choose the model.
+Step 4 Train your machine model.
+Step 5: Evaluation.
+Step 6: Parameter Tuning. 
+Step 7: Prediction or Inference.
+
+2) The Data Type Is Broadly Classified Into
+
+Quantitative:- This Type Of Data Type Consists Of Numerical Values. Anything Which Is Measured By Numbers.
+
+E.G., Profit, Quantity Sold, Height, Weight, Temperature, Etc.
+
+Qualitative:- These Are The Data Types That Cannot Be Expressed In Numbers. This Describes Categories Or Groups And Is Hence Known As The Categorical Data Type.
+
+3 i) Categorical data refers to a data type that can be stored and identified based on the names or labels given to them. Numerical data refers to the data that is in the form of numbers, and not in any language or descriptive form. Also known as qualitative data as it qualifies data before classifying it.
+ii) While both methods are used for reducing the number of features in a dataset, there is an important difference. Feature selection is simply selecting and excluding given features without changing them. Dimensionality reduction transforms features into a lower dimension.
+
+4 i) A histogram is a graphical representation of data points organized into user-specified ranges. Similar in appearance to a bar graph, the histogram condenses a data series into an easily interpreted visual by taking many data points and grouping them into logical ranges or bins.It is used to summarize discrete or continuous data that are measured on an interval scale. It is often used to illustrate the major features of the distribution of the data in a convenient form.
+
+ii) The scatter diagram graphs pairs of numerical data, with one variable on each axis, to look for a relationship between them. If the variables are correlated, the points will fall along a line or curve. The better the correlation, the tighter the points will hug the line. WHEN TO USE A SCATTER DIAGRAM
+When you have paired numerical data
+When your dependent variable may have multiple values for each value of your independent variable
+When trying to determine whether the two variables are related
+
+6) A histogram is used to summarize discrete or continuous data. In other words, it provides a visual interpretation of numerical data by showing the number of data points that fall within a specified range of values (called “bins”). It is similar to a vertical bar graph. 
+A normal distribution: In a normal distribution, points on one side of the average are as likely to occur as on the other side of the average.
+A bimodal distribution: In a bimodal distribution, there are two peaks. In a bimodal distribution, the data should be separated and analyzed as separate normal distributions.
+A right-skewed distribution: A right-skewed distribution is also called a positively skewed distribution. In a right-skewed distribution, a large number of data values occur on the left side with a fewer number of data values on the right side.
+A left-skewed distribution: A left-skewed distribution is also called a negatively skewed distribution. In a left-skewed distribution, a large number of data values occur on the right side with a fewer number of data values on the left side.
+A random distribution: A random distribution lacks an apparent pattern and has several peaks. In a random distribution histogram, it can be the case that different data properties were combined. Therefore, the data should be separated and analyzed separately.
+7) Set up a filter in your testing tool
+Remove or change outliers during post-test analysis
+Change the value of outliers
+Consider the underlying distribution
+Consider the value of mild outliers
+ 
